@@ -1,1 +1,30 @@
-{"orgName": "NPC-Fundraising - Dev Org", "settings": {"lightningExperienceSettings": {"enableS1DesktopEnabled": true}, "chatterSettings": {"enableChatter": true}, "userManagementSettings": {"enableNewProfileUI": true}, "securitySettings": {"enableAdminLoginAsAnyUser": true, "sessionSettings": {"forceRelogin": false}}, "languageSettings": {"enableTranslationWorkbench": true}}, "template": "0TT1Q000004PDff"}
+{
+  "orgName": "hc-home-health - Dev Org",
+  "template": "0TT1Q000004bZGs",
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "chatterSettings": {
+      "enableChatter": true
+    },
+    "userManagementSettings": {
+      "enableNewProfileUI": true
+    },
+    "securitySettings": {
+      "enableAdminLoginAsAnyUser": true,
+      "sessionSettings": {
+        "forceRelogin": false
+      }
+    },
+    "languageSettings": {
+      "enableTranslationWorkbench": true
+    },
+    "industriesSettings":{
+      "enableHomeHealth": true
+    },
+    "fieldServiceSettings":{
+      "fieldServiceOrgPref": true
+   }
+  }
+}
